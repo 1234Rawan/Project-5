@@ -1,0 +1,260 @@
+html {
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+  }
+  body {
+    font-family: "Cairo", sans-serif;
+    overflow-x: hidden;
+  }
+ 
+  .content {
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow-x: hidden;
+  }
+  .container {
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow-x: hidden;
+  }
+  /* Small */
+  @media (min-width: 768px) {
+    .container {
+      width: 750px;
+    }
+  }
+  /* Medium */
+  @media (min-width: 992px) {
+    .container {
+      width: 970px;
+    }
+  }
+  /* Large */
+  @media (min-width: 1200px) {
+    .container {
+      width: 1170px;
+    }
+  }
+.container .col-3{
+  left: 12px;
+}
+.container .col-2{
+  left: 250px;
+  color: white;
+}
+.container .col-3{
+  left: 12px;
+  color: white;
+  font-weight: bold;
+}
+.landing{
+  overflow-x: hidden;
+top: -25px;
+z-index: -1;
+    background-size: cover;
+    position: relative;
+}
+.service p{
+color: rgb(141, 143, 142);
+}
+.service h1,
+p,
+h3{
+  position: relative;
+  top:130px;
+  display: flex;
+  left: 70px;
+}
+.service h3{
+  font-style: inherit;
+}
+.service img{
+  position: relative;
+top:-260px ;
+left: 700px ;
+}
+.service p{
+  color: rgb(141, 143, 142);
+  } 
+  .PAGE3 .A,.B,.C{
+    position: relative;
+    top: 10px;
+    left: 790px ;
+  }
+ 
+  .PAGE3 .B{
+ 
+    color: rgb(141, 143, 142);
+  }
+  .content .C{
+    font-style: inherit;
+  }
+  .PAGE3 img{
+  
+    position: relative;
+  top: -495px;
+right: 18px;
+  }
+  .row{
+    position: absolute;
+  }
+  .row h2{
+    position: relative;
+   left: 230px;
+   top: -120px;
+   color: rgb(11, 85, 0);
+  }
+  .row .first{
+    position: relative;
+   left: -26px;
+   top: -60px;
+   color: rgb(11, 85, 0);
+  }
+  .row img{
+    position: relative;
+    top: -495px;
+    z-index: -1;
+    left: 103px;
+  }
+  .row 
+  .Row{
+    position: absolute;
+  }
+  .Row img{
+    position: relative;
+    top: -630px;
+    left: -18px;
+    z-index: -1;
+  }
+  .Row h2{
+    position: relative;
+    top: -120px;
+    left:  960px;
+    color: rgb(2, 20, 63);
+  }
+  .Row p{
+    position: relative;
+    top: -105px;
+    left: 903px;
+    color: rgb(2, 20, 63);
+  }
+  .Page4{
+    position: absolute;
+  }
+  .Page4 h1{
+    position: relative;
+    top:-505px ;
+    left: 350px;
+    opacity: 50%;
+  }
+  .images{
+    position: absolute;
+  }
+  .images{
+    position: relative;
+    contain: center;
+    left:400px;
+    top: -400px;
+    width: 50%;
+  }
+  .images img{
+    border-style: hidden;
+    border-width: 1px;
+    border-color:rgb(255, 255, 255);
+border-radius: 50% 50% 50% 50% ;
+
+  }
+  .images #three{
+    position: relative;
+    left: 240px;
+  }
+  .images #one{
+    position: relative;
+    left: -240px;
+  }
+  .row{
+    position: absolute;
+  }
+  .row .col-3 p{
+    position: relative;
+    color: rgb(0, 0, 0);
+left: 190px;
+top: -260px;
+opacity: 70%;
+  }
+  .row .col-3 h3{
+    position: relative;
+    left: 190px;
+top: -260px;
+  }
+  .pictures .row img{
+    position: relative;
+    left: -88px;
+    top:5px ;
+  }
+  .pictures .row .Second{
+    position: relative;
+    left: 1040px;
+    top:-371px ;
+  }
+  .Finaly{
+    position: absolute;
+  }
+  .Finaly .row h1{
+   position: absolute;
+   left: 599px;
+   bottom:-550px ;
+   color: rgb(1, 114, 33);
+   font-weight: bold;
+  }
+  .Finaly .row .row .col-3{
+    position: relative;
+    left: 599px;
+    word-spacing: 40px;
+   top:550px ;
+   color: rgb(1, 114, 33);
+    opacity: 70%;
+  }
+  .Finaly .row .row  #K{
+    position: relative;
+    left: 520px;
+  }
+  .Finaly .row .row  #H{
+    position: relative;
+    left: 710px;
+    
+  }
+  .icon{
+    position: absolute;
+  }
+    #L{
+    position: relative;
+    left: 560px;
+    top: 650px;
+    width: 88px;
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
